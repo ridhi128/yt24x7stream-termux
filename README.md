@@ -120,7 +120,7 @@ Use stable internet + charging for 24×7 streaming.
 
 🏷️ Tags
 
-termux youtube-live ffmpeg livestreaming rtmp automation android bash-script
+#termux #youtube-live #ffmpeg #livestreaming #rtmp #automation #android #bash-script
 
 
 ---
