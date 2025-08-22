@@ -1,4 +1,4 @@
-# 📺 ytlive-termux
+# 📺 yt24x7stream-termux 
 
 A lightweight Termux-based script to stream **24×7 live video or audio** to **YouTube Live** using **FFmpeg**.
 
